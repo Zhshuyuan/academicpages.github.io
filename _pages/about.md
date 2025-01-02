@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I received the B.E. degree in automation from Northeastern University, Shenyang, China, in 2018, and the Ph.D. degree in control theory and control engineering from Beihang University, Beijing, China, in 2024. 
-Since October 2024, I have been a postdoctoral researcher at the ICTEAM Institute, Université Catholique de Louvain (UCLouvain), Louvain-La-Neuve, Belgium, working with Raphael Jungers, 
+Since October 2024, I have been a postdoctoral researcher at the ICTEAM Institute, Université Catholique de Louvain (UCLouvain), Louvain-La-Neuve, Belgium, working with Raphael Jungers.
 
 Research Interests
 ======
